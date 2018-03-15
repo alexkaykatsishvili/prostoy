@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-1);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <linearGradient id="linear-gradient-1" gradientUnits="userSpaceOnUse" x1="40" y1="80" x2="40">
+      <stop offset="0" stop-color="#446b96"/>
+      <stop offset="1" stop-color="#5681b0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle cx="40" cy="40" r="40" class="cls-1"/>
+    <path d="M29.001,44.667 L38.601,35.333 L38.600,35.333 L41.000,32.999 L53.000,44.666 L50.601,46.999 L41.001,37.667 L31.401,47.000 L29.001,44.667 Z" class="cls-2"/>
+  </g>
+</svg>
